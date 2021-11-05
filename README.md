@@ -19,3 +19,8 @@ Here are some ideas to get you started:
 ### Socials: [LinkedIn](https://linkedin.com/in/amel-khiri-qahwadji-37a550135) | [Twitter](https://twitter.com/AmalQahwadji)
 
 ![Amel's GitHub stats](https://github-readme-stats.vercel.app/api?username=algerina&show_icons=true&theme=dark)
+
+### Number of visits:
+<p align="center">
+   <img src="https://profile-counter.glitch.me/{algerina}/count.svg"/>
+</p>
