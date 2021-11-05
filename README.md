@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there I'm Amel 👋
+Fullstack Developer 
 
+Open to new opportunities and collaborations
 <!--
 **algerina/algerina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Socials: [LinkedIn](https://linkedin.com/in/amel-khiri-qahwadji-37a550135) | [Twitter](https://twitter.com/AmalQahwadji)
+
+![Amel's GitHub stats](https://github-readme-stats.vercel.app/api?username=algerina&show_icons=true&theme=dark)
