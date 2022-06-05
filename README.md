@@ -14,10 +14,7 @@ Please feel free to clone projects and raise issues if you think something could
 
 Happy Coding! 😊
 
-## Most used languages in my repositories
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algerina&theme=tokyonight)
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=algerina" alt="algerina" /></a></p>
 
 
 <!--
@@ -37,6 +34,14 @@ Here are some ideas to get you started:
 ### Socials: [LinkedIn](https://linkedin.com/in/amel-khiri-qahwadji-37a550135) | [Twitter](https://twitter.com/AmalQahwadji)
 
 ![Amel's GitHub stats](https://github-readme-stats.vercel.app/api?username=algerina&show_icons=true&theme=dark)
+
+
+
+## Most used languages in my repositories
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algerina&theme=tokyonight)
+
+
 
 ## My skillset
 
