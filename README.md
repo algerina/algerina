@@ -3,10 +3,25 @@
 
 
 You have finally discovered my Github profile. <br>
-My name is Amel Khiri, I'm a Full Stack Web Development, specialized in Rails React Framework.
-
+I'm Amel a mechanical engineer switching to Full Stack Web Development.
+ - 📖 Javascript / React / Python / Django / Ruby / Rails / Java / PostgreSQL
 - 🔭 I’m currently learning new technologies
 - 👯 I’m looking to collaborate on amazing and impactfull software projects and open to new opportunities.
+- I'm currently avaible for a now job!
+
+* **Languages**: 
+  - 🇫🇷 French
+  - 🇬🇧 English
+  - 🇩🇿 Arabic
+  - Tr Turkish
+  - 🇪🇸 Spanish (beginner)
+
+* **Hobbies**: 
+  - 📸 Photography 
+  - 🖌️ Painting
+  - 📖 Reading and writing
+  - 🏊‍ Swimming
+ 
 - 📫 How to reach me:
 
 Linkedin: [Amel Khiri](https://www.linkedin.com/in/amel-khiri/)
