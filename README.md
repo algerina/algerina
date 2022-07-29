@@ -9,8 +9,8 @@ I'm Amel a mechanical engineer switching to Full Stack Web Development.
 - 👯 I’m looking to collaborate on amazing and impactfull software projects and open to new opportunities.
 - I'm currently avaible for a now job!
 
-* **Languages**: 
-   🇫🇷  🇬🇧  🇩🇿 Tr  🇪🇸(beginner)
+***Languages**: 
+   🇫🇷   🇬🇧   🇩🇿  🦃   🇪🇸(beginner)
  
 
 ### Socials:
