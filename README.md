@@ -10,20 +10,17 @@ I'm Amel a mechanical engineer switching to Full Stack Web Development.
 - I'm currently avaible for a now job!
 
 * **Languages**: 
-  - 🇫🇷 French
-  - 🇬🇧 English
-  - 🇩🇿 Arabic
-  - Tr Turkish
-  - 🇪🇸 Spanish (beginner)
+   🇫🇷  🇬🇧  🇩🇿 Tr  🇪🇸(beginner)
  
-- 📫 How to reach me:
 
--->
-### Socials: [LinkedIn](https://www.linkedin.com/in/amel-khiri/) | [Twitter](https://twitter.com/AmalQahwadji)
+### Socials:
+
+[LinkedIn](https://www.linkedin.com/in/amel-khiri/) | [Twitter](https://twitter.com/AmalQahwadji)
+
+Please feel free to clone projects and raise issues if you think something could be better.
 
 ![Amel's GitHub stats](https://github-readme-stats.vercel.app/api?username=algerina&show_icons=true&theme=dark)
 
-Please feel free to clone projects and raise issues if you think something could be better.
 
 Happy Coding! 😊
 
