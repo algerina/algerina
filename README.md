@@ -15,16 +15,14 @@ I'm Amel a mechanical engineer switching to Full Stack Web Development.
   - 🇩🇿 Arabic
   - Tr Turkish
   - 🇪🇸 Spanish (beginner)
-
-* **Hobbies**: 
-  - 📸 Photography 
-  - 🖌️ Painting
-  - 📖 Reading and writing
-  - 🏊‍ Swimming
  
 - 📫 How to reach me:
 
-Linkedin: [Amel Khiri](https://www.linkedin.com/in/amel-khiri/)
+-->
+### Socials: [LinkedIn](https://www.linkedin.com/in/amel-khiri/) | [Twitter](https://twitter.com/AmalQahwadji)
+
+![Amel's GitHub stats](https://github-readme-stats.vercel.app/api?username=algerina&show_icons=true&theme=dark)
+
 Please feel free to clone projects and raise issues if you think something could be better.
 
 Happy Coding! 😊
@@ -45,12 +43,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-### Socials: [LinkedIn](https://linkedin.com/in/amel-khiri-qahwadji-37a550135) | [Twitter](https://twitter.com/AmalQahwadji)
-
-![Amel's GitHub stats](https://github-readme-stats.vercel.app/api?username=algerina&show_icons=true&theme=dark)
-
-
 
 ## Most used languages in my repositories
 
