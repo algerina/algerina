@@ -19,7 +19,7 @@ I'm Amel a mechanical engineer switching to Full Stack Web Development.
 
 Please feel free to clone projects and raise issues if you think something could be better.
 
-![Amel's GitHub stats](https://github-readme-stats.vercel.app/api?username=algerina&show_icons=true&theme=midnight-purple)
+![Amel's GitHub stats](https://github-readme-stats.vercel.app/api?username=algerina&theme=midnight-purple&show_icons=true)
 
 
 Happy Coding! 😊
