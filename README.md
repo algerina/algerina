@@ -7,10 +7,10 @@ I'm Amel a mechanical engineer switching to Full Stack Web Development.
  - 📖 Javascript / React / Python / Ruby / Rails / PostgreSQL
 - 🔭 I’m currently learning new technologies
 - 👯 I’m looking to collaborate on amazing and impactfull software projects and open to new opportunities.
-- I'm currently avaible for a now job!
+- I'm currently available for a new job!
 
 ***Languages**: 
-   🇫🇷   🇬🇧   🇩🇿  🇹🇷  🇪🇸(beginner)
+   🇫🇷 /  🇬🇧 /  🇩🇿 / 🇹🇷 / 🇪🇸 (beginner)
  
 
 ### Socials:
